@@ -1,5 +1,5 @@
 package br.edu.fatecpg.abstracao.view;
 
-public class teste {
+public class Main_Teles {
 
 }
